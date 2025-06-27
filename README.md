@@ -76,3 +76,15 @@ Practicing Python file handling, user input, and logical operations
 Conclusion:
 
 This File Integrity Checker is a valuable project for learning and practical use. It demonstrates how hashing algorithms like SHA-256 can be used to verify the integrity of files. Built in **Thonny IDE** and hosted on GitHub, the project is both educational and functional. While it currently monitors a single file, it serves as a foundational project to understand how real-world file monitoring systems work. Beginners can use this as a starting point for more advanced tools and security projects.
+
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/07b242fa-ef1d-495c-8be3-537b7d119f30)
+
+![Image](https://github.com/user-attachments/assets/819355b3-0a97-414b-aadf-9b47aa1a182a)
+
+![Image](https://github.com/user-attachments/assets/f7d0d2ba-c807-4732-91e4-31e144a7c420)
+
+![Image](https://github.com/user-attachments/assets/b070e4bb-ae37-4c57-b02e-2a34a3b3a429)
+
+![Image](https://github.com/user-attachments/assets/f8412f57-5c6e-4d4b-894b-850e2bde7df0)
