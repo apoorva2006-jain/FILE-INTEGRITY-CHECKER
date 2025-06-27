@@ -1,6 +1,5 @@
 import hashlib
 
-# Function to calculate the SHA-256 hash of a file
 def calculate_hash(file_path):
     sha256 = hashlib.sha256()
     try:
@@ -12,7 +11,6 @@ def calculate_hash(file_path):
         print("File not found:", file_path)
         return None
 
-# Function to check integrity by comparing hashes
 def check_integrity(original_hash, file_path):
     current_hash = calculate_hash(file_path)
     if current_hash is None:
@@ -23,7 +21,6 @@ def check_integrity(original_hash, file_path):
     else:
         print("✖ WARNING: File has been modified!")
 
-# Main program
 def main():
     file_path = input("Enter the file path to monitor: ")
     print("Calculating original hash...")
