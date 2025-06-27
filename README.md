@@ -22,7 +22,7 @@ This tool was created using Python and executed using the Thonny IDE, which is s
 
 Tools & Technologies Used:
 
-Programming Language**: Python 3.11  
+Programming Language: Python 3.11  
 IDE/Editor: Thonny (lightweight, beginner-friendly)  
 Operating System: Windows 10  
 Hosting Platform: GitHub (using web upload)  
